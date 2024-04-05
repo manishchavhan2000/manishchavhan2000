@@ -5,8 +5,7 @@ I’m currently learning and upskilling myself.
 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
 Specialized in data collection, data cleaning, data analysis, and data visualization.
 Reach me at Gmail - manishchavhan010130@gmail.com
-Connect with me at LinkedIn - www.linkedin.com/in/
-manish-chavhan-data
+Connect with me at LinkedIn - www.linkedin.com/in/manish-chavhan-data
 
 
 ❤️ I love learning new things!
