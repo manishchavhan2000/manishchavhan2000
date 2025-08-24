@@ -1,13 +1,19 @@
-Hi, I'm Manish Chavhan
-A passionate Data Analyst from India
-I’m a life long learner, currently exploring more about Data Analytics!
-I’m currently learning and upskilling myself.
-My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
-Specialized in data collection, data cleaning, data analysis, and data visualization.
-Reach me at Gmail - manishchavhan010130@gmail.com
-Connect with me at LinkedIn - www.linkedin.com/in/manish-chavhan-data
+I am a Data Analyst with 3+ years of experience transforming data into meaningful insights that drive business growth. Over the past few years at AI Variant, I have worked on real-world analytics projects, building dashboards, automating reporting, and uncovering patterns in complex datasets to support data-driven decision-making.
 
-<!---
-manishchavhan2000/manishchavhan2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My analytics toolbox includes SQL, Python, Tableau, Power BI, DAX, Power Query, and MS Excel, with strong expertise in data collection, cleaning, analysis, and visualization. I enjoy translating raw data into actionable insights and presenting them in ways that enable organizations to act with confidence.
+
+Key Highlights:
+
+Designed and delivered interactive dashboards in Tableau & Power BI that improved reporting efficiency and stakeholder engagement.
+
+Developed and optimized SQL pipelines for faster data extraction and analysis.
+
+Automated repetitive reporting tasks using Python, saving valuable analyst time.
+
+Conducted exploratory and statistical analysis to identify business trends and inform decision-making.
+
+I believe in being a lifelong learner and continuously upskilling myself in advanced analytics, BI tools, and emerging technologies to stay ahead in the data space.
+
+📩 Reach me at: manishchavhan010130@gmail.com
+
+🔗 Connect with me: www.linkedin.com/in/manish-chavhan-data
