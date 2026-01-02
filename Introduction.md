@@ -1,4 +1,4 @@
-I am a Data Analyst with 3+ years of experience transforming data into meaningful insights that drive business growth. Over the past few years at AI Variant, I have worked on real-world analytics projects, building dashboards, automating reporting, and uncovering patterns in complex datasets to support data-driven decision-making.
+I am a Data Analyst with 1+ years of experience transforming data into meaningful insights that drive business growth. Over the past few years at AI Variant, I have worked on real-world analytics projects, building dashboards, automating reporting, and uncovering patterns in complex datasets to support data-driven decision-making.
 
 My analytics toolbox includes SQL, Python, Tableau, Power BI, DAX, Power Query, and MS Excel, with strong expertise in data collection, cleaning, analysis, and visualization. I enjoy translating raw data into actionable insights and presenting them in ways that enable organizations to act with confidence.
 
